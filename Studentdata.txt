@@ -1,0 +1,4 @@
+Name,Age,Department
+Arun,21,AI&DS
+Priya,20,AI&DS
+Karthik,21,CSE
