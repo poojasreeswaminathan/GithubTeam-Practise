@@ -1,6 +1,5 @@
 # GithubTeam-Practise
 ## Learning Goals
-
 -Git basics
 -Branching
 -Pull Requests
